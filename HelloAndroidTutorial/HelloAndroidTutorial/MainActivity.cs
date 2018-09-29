@@ -24,7 +24,7 @@ namespace HelloAndroidTutorial
             layout.AddView(aLabel);
             layout.AddView(aButton);
             SetContentView(layout);
-        }
+        }
     }
 }
 

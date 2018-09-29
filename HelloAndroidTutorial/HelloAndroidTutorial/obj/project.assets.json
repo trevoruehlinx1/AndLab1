@@ -450,11 +450,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Trevor Uehlin\\Documents\\AndroidSolutions\\HelloAndroidTutorial\\HelloAndroidTutorial\\HelloAndroidTutorial.csproj",
+      "projectUniqueName": "C:\\Users\\Trevor Uehlin\\Documents\\AndroidSolutions\\Lab1\\HelloAndroidTutorial\\HelloAndroidTutorial\\HelloAndroidTutorial.csproj",
       "projectName": "HelloAndroidTutorial",
-      "projectPath": "C:\\Users\\Trevor Uehlin\\Documents\\AndroidSolutions\\HelloAndroidTutorial\\HelloAndroidTutorial\\HelloAndroidTutorial.csproj",
+      "projectPath": "C:\\Users\\Trevor Uehlin\\Documents\\AndroidSolutions\\Lab1\\HelloAndroidTutorial\\HelloAndroidTutorial\\HelloAndroidTutorial.csproj",
       "packagesPath": "C:\\Users\\Trevor Uehlin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Trevor Uehlin\\Documents\\AndroidSolutions\\HelloAndroidTutorial\\HelloAndroidTutorial\\obj\\",
+      "outputPath": "C:\\Users\\Trevor Uehlin\\Documents\\AndroidSolutions\\Lab1\\HelloAndroidTutorial\\HelloAndroidTutorial\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [

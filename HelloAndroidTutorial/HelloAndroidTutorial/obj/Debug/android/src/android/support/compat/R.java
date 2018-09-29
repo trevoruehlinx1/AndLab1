@@ -3232,12 +3232,11 @@ containing a value of this type.
         public static int abc_shareactionprovider_share_with=0x7f09000e;
         public static int abc_shareactionprovider_share_with_application=0x7f09000f;
         public static int abc_toolbar_collapse_description=0x7f090010;
+        public static int action_settings=0x7f090028;
         public static int app_name=0x7f090027;
         public static int appbar_scrolling_view_behavior=0x7f09001e;
         public static int bottom_sheet_behavior=0x7f09001f;
         public static int character_counter_pattern=0x7f090020;
-        public static int helloButtonText=0x7f090028;
-        public static int helloLabelText=0x7f090029;
         public static int password_toggle_content_description=0x7f090021;
         public static int path_password_eye=0x7f090022;
         public static int path_password_eye_mask_strike_through=0x7f090023;
