@@ -450,9 +450,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Trevor Uehlin\\Documents\\AndroidSolutions\\Lab1\\HelloAndroidLab1\\HelloAndroidLab1\\HelloAndroidLab1.csproj",
-      "projectName": "HelloAndroidLab1",
-      "projectPath": "C:\\Users\\Trevor Uehlin\\Documents\\AndroidSolutions\\Lab1\\HelloAndroidLab1\\HelloAndroidLab1\\HelloAndroidLab1.csproj",
+      "projectUniqueName": "C:\\Users\\Trevor Uehlin\\Documents\\AndroidSolutions\\Lab1\\HelloAndroidLab1\\HelloAndroidLab1\\HelloAndroidLab1Code.csproj",
+      "projectName": "HelloAndroidLab1Code",
+      "projectPath": "C:\\Users\\Trevor Uehlin\\Documents\\AndroidSolutions\\Lab1\\HelloAndroidLab1\\HelloAndroidLab1\\HelloAndroidLab1Code.csproj",
       "packagesPath": "C:\\Users\\Trevor Uehlin\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Trevor Uehlin\\Documents\\AndroidSolutions\\Lab1\\HelloAndroidLab1\\HelloAndroidLab1\\obj\\",
       "projectStyle": "PackageReference",

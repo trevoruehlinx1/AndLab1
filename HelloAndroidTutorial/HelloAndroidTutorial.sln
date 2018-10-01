@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloAndroidTutorial", "HelloAndroidTutorial\HelloAndroidTutorial.csproj", "{DA11CC4B-1859-4A53-9CE2-C5E34A137C43}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloAndroidTutorialCode", "HelloAndroidTutorial\HelloAndroidTutorialCode.csproj", "{DA11CC4B-1859-4A53-9CE2-C5E34A137C43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloAndroidTutorialXML", "HelloAndroidTutorialXML\HelloAndroidTutorialXML.csproj", "{5E314599-A9FB-4FE0-A665-4A337409C43C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,6 +19,12 @@ Global
 		{DA11CC4B-1859-4A53-9CE2-C5E34A137C43}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA11CC4B-1859-4A53-9CE2-C5E34A137C43}.Release|Any CPU.Build.0 = Release|Any CPU
 		{DA11CC4B-1859-4A53-9CE2-C5E34A137C43}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{5E314599-A9FB-4FE0-A665-4A337409C43C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E314599-A9FB-4FE0-A665-4A337409C43C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E314599-A9FB-4FE0-A665-4A337409C43C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5E314599-A9FB-4FE0-A665-4A337409C43C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E314599-A9FB-4FE0-A665-4A337409C43C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E314599-A9FB-4FE0-A665-4A337409C43C}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
